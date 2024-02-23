@@ -10,4 +10,4 @@
 
 5 model_comp_NN - Neural network model(old).
 
-6. model_comp_NN_new will use functions of files in 1-3. The training data is included in the folder(Collect dat). There are 34 paths. In each path, robot was controlled to move back and forth with 5 different speed. Thus, each path has 10 files (2x5). Path 1 to 28 were used as training data and path 29 to 34 were the testing data.
+6 model_comp_NN_new will use functions of files in 1-3. The training data is included in the folder(Collect dat). There are 34 paths. In each path, robot was controlled to move back and forth with 5 different speed. Thus, each path has 10 files (2x5). Path 1 to 28 were used as training data and path 29 to 34 were the testing data.
